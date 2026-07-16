@@ -1,4 +1,23 @@
-## Hi there 👋
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4b56ec&height=120&text=MS'sGithub&animation=twinkling&fontColor=5a5858&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hsch14&bg_color=180,fdfcfc,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsch14&layout=compact&bg_color=180,fdfcfc,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
 
 <!--
 **hsch14/hsch14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
